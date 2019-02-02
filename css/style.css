@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+  }
+  button{
+      background-color:red;
+      padding: 15px 32px;
+      color: white;
+      text-align: center;
+      font-size: 16px;
+      margin: 4px 2px;
+  }
+  p{
+    
+    color: white
+  }
